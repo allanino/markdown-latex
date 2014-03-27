@@ -24,4 +24,4 @@ Have ![equation](http://latex.codecogs.com/png.latex?%24%24f%20%5Ccup%20%5Cmathb
 
 [CodeCogs]:http://www.codecogs.com/latex/eqneditor.php
 [README]:https://raw.github.com/allanino/markdown-latex/master/README
-{README.md]:https://raw.github.com/allanino/markdown-latex/master/README.md
+[README.md]:https://raw.github.com/allanino/markdown-latex/master/README.md
