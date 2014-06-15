@@ -1,4 +1,4 @@
-# Markdown LaTeX
+# Markdown-LaTeX
 
 This is a Python script that looks for a README written with Markdown + $$\LaTeX$$ and outputs a README.md with the $$\LaTeX$$ equations replaced by images rendered by [CodeCogs].
 
